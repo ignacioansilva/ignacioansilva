@@ -1,5 +1,5 @@
 # Hi everyone, I´m Ignacio!
-### I'm a Full Stack Web Developer* 
+### I'm a Back End Web Developer* 
 
 # I am really passionate about this:
 - 💬 Everything related to communication, especially the digital world.
